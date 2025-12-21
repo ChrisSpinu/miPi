@@ -2378,6 +2378,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Display"
+		(exclude_from_sim no)
+		(at 233.68 88.392 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "15bd6391-4109-4e5b-8d97-4e29da1d61d2")
+	)
 	(text_box "USB"
 		(exclude_from_sim no)
 		(at 130.81 78.74 0)
@@ -6814,6 +6824,108 @@
 				(path "/b9d145a7-baa8-4ce0-8960-0d6de596954d"
 					(reference "#PWR013")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 199.39 27.94)
+		(size 77.47 72.39)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "889cb629-3d95-4c69-9cec-24517901cfd1")
+		(property "Sheetname" "peripherals"
+			(at 199.39 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 199.39 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUSY" input
+			(at 227.33 100.33 270)
+			(uuid "ec7d1c46-903d-4829-9471-68cf395b07ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CS" input
+			(at 229.87 100.33 270)
+			(uuid "f04ebf1a-d700-411f-bd7c-df3afa4a7cd0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RES" input
+			(at 232.41 100.33 270)
+			(uuid "ecabfdd6-5744-4087-989f-194bde35ad36")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D{slash}C" input
+			(at 234.95 100.33 270)
+			(uuid "ac727b56-8bab-46cb-a94c-17adac12d297")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDI" input
+			(at 237.49 100.33 270)
+			(uuid "3f5fdf07-cd9a-4a49-a6da-90448d8f258f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CLK" input
+			(at 240.03 100.33 270)
+			(uuid "62beb0ba-fcfd-43d5-bb63-f42e763371fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MiPi"
+				(path "/b9d145a7-baa8-4ce0-8960-0d6de596954d"
+					(page "2")
 				)
 			)
 		)

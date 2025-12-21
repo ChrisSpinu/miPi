@@ -412,6 +412,10 @@
     [
       "b9d145a7-baa8-4ce0-8960-0d6de596954d",
       "Root"
+    ],
+    [
+      "889cb629-3d95-4c69-9cec-24517901cfd1",
+      "peripherals"
     ]
   ],
   "text_variables": {}

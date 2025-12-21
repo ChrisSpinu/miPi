@@ -1,4 +1,4 @@
-26818269181125847
+26820035512710790
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105776,6 +105776,13 @@ USER Library
 0
 4
 4
+USER Library
+FPC_24
+
+
+0
+26
+25
 USER Library
 GYNEO6MV2
 
