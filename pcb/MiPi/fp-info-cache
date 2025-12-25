@@ -1,4 +1,4 @@
-26821802005150939
+26823568692959904
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105784,6 +105784,13 @@ FPC_24
 26
 25
 USER Library
+FPC_24_TOP_CONTACTS
+
+
+0
+26
+25
+USER Library
 GYNEO6MV2
 
 
@@ -105802,8 +105809,8 @@ RDA5807M module
 
 
 0
-0
-0
+10
+10
 USER Library
 SD Card 2.54
 
