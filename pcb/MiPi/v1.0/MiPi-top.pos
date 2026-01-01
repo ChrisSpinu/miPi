@@ -1,0 +1,24 @@
+### Footprint positions - created on 2025-12-31T21:12:52+0200 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                              PosX       PosY       Rot  Side
+C11       100n                     C_0402_1005Metric                                115.0100   -76.4000   90.0000  top
+C23       1u                       C_0402_1005Metric                                 98.0300   -96.5600    0.0000  top
+C38       10u                      C_0402_1005Metric                                118.9200   -58.5500    0.0000  top
+C39       10u                      C_0402_1005Metric                                120.6800   -61.0500    0.0000  top
+R14       10k                      R_0402_1005Metric                                108.8500  -108.0900   90.0000  top
+R15       10k                      R_0402_1005Metric                                 96.2500  -108.1000   90.0000  top
+R16       10k                      R_0402_1005Metric                                108.6400  -103.8800  180.0000  top
+R17       10k                      R_0402_1005Metric                                108.6400  -101.8900  180.0000  top
+R18       10k                      R_0402_1005Metric                                108.6400   -99.9000  180.0000  top
+R19       10k                      R_0402_1005Metric                                125.3500   -78.9500    0.0000  top
+R20       10k                      R_0402_1005Metric                                125.3500   -91.6500    0.0000  top
+SW3       RotaryEncoder_Switch_MP  RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm   111.6500   -99.4000    0.0000  top
+SW4       SW_Push                  SW_Push_1P1T_NO_CK_KMR2                           92.8000  -107.8000    0.0000  top
+SW5       SW_Push                  SW_Push_1P1T_NO_CK_KMR2                          105.4000  -107.8000    0.0000  top
+SW6       SW_Push                  SW_Push_1P1T_NO_CK_KMR2                          125.0500   -88.1500  -90.0000  top
+SW7       SW_Push                  SW_Push_1P1T_NO_CK_KMR2                          125.0500   -75.5500  -90.0000  top
+U3        ~                        RDA5807M_module                                  101.4900   -75.1200  180.0000  top
+U6        NCP1117-3.3_SOT223       SOT-223-3_TabPin2                                115.3000   -62.7000  180.0000  top
+## End
